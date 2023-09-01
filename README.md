@@ -1,4 +1,3 @@
-# Productos-Sql
+# Parcial I
 Ejercicio realizado por:
 - Nicolás Vargas Cardona
-- Mateo Loaiza García
